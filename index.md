@@ -1,16 +1,15 @@
-## Welcome to GitHub Pages
+## Wel come!!
 Christian Simon
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hi, I am a PhD student in the Australian National University starting 2018.
+My research focuses on meta-learning and its applications.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Publications
+## Journal
+- 
 
 - Bulleted
 - List
