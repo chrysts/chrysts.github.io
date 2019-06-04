@@ -20,7 +20,7 @@ My research focuses on meta-learning and its applications. Specifically, I curre
 ## Sometimes Write Papers
 ## Preprints
 - C. Simon, P. Koniusz, and M. Harandi, "Projective Subspace Networks For Few-Shot Learning," Submitted to ICLR 2019 (but rejected ): ). [URL](https://openreview.net/pdf?id=rkzfuiA9F7)
-![img](https://github.com/chrysts/chrysts.github.io/blob/master/images/psn.jpg?raw=true)
+![img](https://github.com/chrysts/chrysts.github.io/blob/master/images/psn.jpg)
 - C.Simon, P. Koniusz, and M. Harandi, "...," Submitted to ICCV 2019. 
 
 ## Journals
