@@ -5,7 +5,7 @@
 
 ## Sometimes Working on AI
 
-
+Christian Simon
 Hi, I am a PhD student in the Australian National University starting in 2018.
 My research focuses on meta-learning and its applications. Specifically, I currently do research on feature embeddings, optimization, and geometry.
 
