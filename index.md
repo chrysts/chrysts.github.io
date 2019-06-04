@@ -1,33 +1,29 @@
-## Wel come!!
-Christian Simon
+## Learning Like A Child
+Hi, I am a PhD student in the Australian National University starting in 2018.
+My research focuses on meta-learning and its applications. Specifically, I currently do research on feature embeddings, optimization, and geometry.
 
-### Markdown
+### 
 
-Hi, I am a PhD student in the Australian National University starting 2018.
-My research focuses on meta-learning and its applications.
+
 
 
 # Publications
-## Journal
-- 
+## Preprints
+1. Projective Subspace Networks For Few-Shot Learning
 
-- Bulleted
-- List
 
+## Journals
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+## Conferences
+ Numbered
+2. List
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chrysts/chrysts.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Awards
+> Data61 Scholarship 2019~
+> AGRTP Australian National University 2018~
+> Jungseok Scholarship 2013-2015
