@@ -8,7 +8,9 @@
 Christian Simon
 
 Hi, I am a PhD student in the Australian National University starting in 2018.
-My research focuses on meta-learning and its applications. Specifically, I currently do research on feature embeddings, optimization, and geometry.
+My research problem focuses on meta-learning, life-long learning, continual-learning, and their applications. 
+
+I incline to solve and describe the problems from these perspectives: representation learning, optimization, and geometry.
 
 - Email : first.last@anu.edu.au
 - [Twitter](https://twitter.com/cimonou)
