@@ -36,7 +36,7 @@ Entia non sunt multiplicanda praeter necessitatem.
 - C. Simon, Williem, and I. K. Park, "Correcting geometric and photometric distortion of document images on a smartphone," Journal of Electronic Imaging (JEI), 2015. [URL](http://image.inha.ac.kr/paper/JEI201501_Simon.pdf)
 
 ### Conferences
-- C. Simon and I. K. Park, "Reflection removal for in-vehicle black box videos," CVPR, 2015. [URL](http://image.inha.ac.kr/paper/CVPR2015_Simon.pdf)
+- C. Simon and I. K. Park, "Reflection removal for in-vehicle black box videos," CVPR, 2015. [URL](http://image.inha.ac.kr/paper/CVPR2015_Simon.pdf) [Video](https://drive.google.com/file/d/1JhZSohA7ty1WxzSJEnwwoll4RdtIsS5X/view?usp=sharing)
 ![img](https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png)
 
 
