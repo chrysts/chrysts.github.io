@@ -7,7 +7,7 @@
 
 Christian Simon
 
-Hi, I am a PhD student in the Australian National University starting in 2018.
+Hi, I was born in Palembang, South Sumatera, Indonesia. Atm, I am a PhD student in the Australian National University starting in 2018.
 My research problem focuses on meta-learning, life-long learning, continual-learning, and their applications. 
 
 I incline to solve and describe the problems from these perspectives: representation learning, optimization, and geometry.
