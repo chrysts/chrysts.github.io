@@ -1,5 +1,5 @@
-# 2019 Progress Bar (44%)
-![img](https://pbs.twimg.com/media/D-eAhNDW4AErF10?format=jpg&name=medium)
+# 2019 Progress Bar (50%)
+![img](https://pbs.twimg.com/media/D-eAhNDW4AErF10?format=jpg&name=small)
 
 
 
