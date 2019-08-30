@@ -1,5 +1,5 @@
 # 2019 Progress Bar (60%)
-![img](https://pbs.twimg.com/media/EBZ-eMuWsAETQmW?format=jpg&name=small)
+![img](https://pbs.twimg.com/media/EDKwYOOWwAAuWHM?format=jpg&name=small)
 
 
 
@@ -45,3 +45,9 @@ Entia non sunt multiplicanda praeter necessitatem.
 - Data61 Scholarship 2019~
 - AGRTP Australian National University 2018~
 - Jungseok Scholarship 2013-2015
+
+## Program Committee:
+- ICCV
+- AAAI
+- WACV
+
