@@ -42,7 +42,7 @@ Entia non sunt multiplicanda praeter necessitatem.
 
 
 ## Awards
-- Best Reviewer ICCV 2019
+- Outstanding Reviewer ICCV 2019 [URL](http://iccv2019.thecvf.com/best_reviewers)
 - Data61 Scholarship 2019~
 - AGRTP Australian National University 2018~
 - Jungseok Scholarship 2013-2015
