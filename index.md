@@ -48,7 +48,7 @@ Entia non sunt multiplicanda praeter necessitatem.
 - Jungseok Scholarship 2013-2015
 
 ## Program Committee:
+- CVPR
 - ICCV
-- AAAI
 - WACV
 
