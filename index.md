@@ -1,5 +1,5 @@
-# 2019 Progress Bar (66%)
-![img](https://pbs.twimg.com/media/EDKwYOOWwAAuWHM?format=jpg&name=small)
+# 2019 Progress Bar (73%)
+![img](https://pbs.twimg.com/media/EFOVZWMWwAAl4rQ?format=jpg&name=small)
 
 
 
@@ -25,6 +25,7 @@ Entia non sunt multiplicanda praeter necessitatem.
 
 ## Sometimes Write Papers
 ### Preprints
+- C.Simon, P. Koniusz, R. Nock, and M. Harandi, "...," Submitted to ICLR 2020. 
 - C.Simon, P. Koniusz, and M. Harandi, "...," Submitted to ICCV 2019. 
 
 - C. Simon, P. Koniusz, and M. Harandi, "Projective Subspace Networks For Few-Shot Learning," Submitted to ICLR 2019 (but rejected ): ). [URL](https://openreview.net/pdf?id=rkzfuiA9F7)
