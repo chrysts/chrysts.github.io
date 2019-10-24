@@ -1,5 +1,5 @@
-# 2019 Progress Bar (73%)
-![img](https://pbs.twimg.com/media/EFOVZWMWwAAl4rQ?format=jpg&name=small)
+# 2019 Progress Bar (81%)
+![img](https://pbs.twimg.com/media/EHkta4aX0AAto1C?format=jpg&name=small)
 
 
 
@@ -28,8 +28,6 @@ Entia non sunt multiplicanda praeter necessitatem.
 - C.Simon, P. Koniusz, R. Nock, and M. Harandi, "...," Submitted to ICLR 2020. 
 - C.Simon, P. Koniusz, and M. Harandi, "...," Submitted to ICCV 2019. 
 - C. Simon, P. Koniusz, R. Nock, and M. Harandi, "Deep Subspace Networks For Few-Shot Learning," NeurIPS 2019 Workshop on Meta-Learning. 
-- C. Simon, P. Koniusz, and M. Harandi, "Projective Subspace Networks For Few-Shot Learning," Submitted to ICLR 2019 (but rejected ): ). [URL](https://openreview.net/pdf?id=rkzfuiA9F7)
-![img](https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/psn.jpg)
 
 ### Journals
 - J.Y. Cheong, C. Simon, C. S. Kim, and I. K. Park, "Reflection Removal under Fast Forward Camera Motion," IEEE Transaction on Image Processing (TIP), 2018. [URL](http://image.inha.ac.kr/wp-content/uploads/2017/07/TIP2017Cheong.pdf)
