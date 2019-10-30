@@ -5,7 +5,7 @@
 
 ## Sometimes Working on AI
 
-Christian Simon
+Christian Simon Shen
 
 Hi, I was born in Palembang, South Sumatera, Indonesia. Atm, I am a PhD student at the Australian National University starting in 2018.
 My research problem focuses on meta-learning, life-long learning, continual-learning, and their applications. 
