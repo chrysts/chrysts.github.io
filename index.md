@@ -26,7 +26,6 @@ Entia non sunt multiplicanda praeter necessitatem.
 ## Sometimes Write Papers
 ### Preprints
 - C.Simon, P. Koniusz, R. Nock, and M. Harandi, "...," Submitted to ICLR 2020. 
-- C.Simon, P. Koniusz, and M. Harandi, "...," Submitted to ICCV 2019. 
 - C. Simon, P. Koniusz, R. Nock, and M. Harandi, "Deep Subspace Networks For Few-Shot Learning," NeurIPS 2019 Workshop on Meta-Learning. 
 
 ### Journals
