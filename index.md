@@ -25,8 +25,10 @@ Entia non sunt multiplicanda praeter necessitatem.
 
 ## Sometimes Write Papers
 ### Preprints
-- C.Simon, P. Koniusz, R. Nock, and M. Harandi, "...," Submitted to ICLR 2020. 
-- C. Simon, P. Koniusz, R. Nock, and M. Harandi, "Deep Subspace Networks For Few-Shot Learning," NeurIPS 2019 Workshop on Meta-Learning. 
+- C.Simon, P. Koniusz, R. Nock, and M. Harandi, "...," Submitted to CVPR 2020. 
+- C.Simon, P. Koniusz, and M. Harandi, "...," Submitted to CVPR 2020. 
+- C.Simon, P. Koniusz, R. Nock, and M. Harandi, "...," Submitted to CVPR 2020. 
+- C. Simon, P. Koniusz, R. Nock, and M. Harandi, "Deep Subspace Networks For Few-Shot Learning," NeurIPS 2019 Workshop on Meta-Learning (Spotlight). 
 
 ### Journals
 - J.Y. Cheong, C. Simon, C. S. Kim, and I. K. Park, "Reflection Removal under Fast Forward Camera Motion," IEEE Transaction on Image Processing (TIP), 2018. [URL](http://image.inha.ac.kr/wp-content/uploads/2017/07/TIP2017Cheong.pdf)
