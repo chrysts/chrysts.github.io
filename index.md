@@ -1,5 +1,5 @@
-# 2019 Progress Bar (81%)
-![img](https://pbs.twimg.com/media/EKN4f5KXYAYwvJJ?format=jpg&name=small)
+# 2019 Progress Bar (91%)
+![img](https://pbs.twimg.com/media/EKgrc5-WoAAiB7E?format=jpg&name=small)
 
 
 ## Sometimes Working on AI
