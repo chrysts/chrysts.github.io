@@ -43,7 +43,7 @@ Entia non sunt multiplicanda praeter necessitatem.
 - AGRTP Australian National University 2018~
 - Jungseok Scholarship 2013-2015
 
-## Program Committee:
+## Program Committee / Reviewer:
 - CVPR
 - ICCV
 - WACV
