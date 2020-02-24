@@ -1,5 +1,5 @@
-# 2019 Progress Bar (91%)
-![img](https://pbs.twimg.com/media/EKgrc5-WoAAiB7E?format=jpg&name=small)
+# 2020 Progress Bar (14%)
+![img](https://pbs.twimg.com/media/ERRuhsVUUAA0Yl7?format=jpg&name=small)
 
 
 ## Sometimes Working on AI
@@ -24,8 +24,7 @@ Entia non sunt multiplicanda praeter necessitatem.
 
 ## Sometimes Write Papers
 ### Preprints
-- C.Simon, P. Koniusz, R. Nock, and M. Harandi, "...," Submitted to CVPR 2020. 
-- C. Simon, P. Koniusz, R. Nock, and M. Harandi, "Deep Subspace Networks For Few-Shot Learning," NeurIPS 2019 Workshop on Meta-Learning (Spotlight). 
+- C. Simon, P. Koniusz, R. Nock, and M. Harandi, "... Meta-Learning," Pre-print. 
 
 ### Journals
 - J.Y. Cheong, C. Simon, C. S. Kim, and I. K. Park, "Reflection Removal under Fast Forward Camera Motion," IEEE Transaction on Image Processing (TIP), 2018. [URL](http://image.inha.ac.kr/wp-content/uploads/2017/07/TIP2017Cheong.pdf)
@@ -33,6 +32,7 @@ Entia non sunt multiplicanda praeter necessitatem.
 - C. Simon, Williem, and I. K. Park, "Correcting geometric and photometric distortion of document images on a smartphone," Journal of Electronic Imaging (JEI), 2015. [URL](http://image.inha.ac.kr/paper/JEI201501_Simon.pdf)
 
 ### Conferences
+- C.Simon, P. Koniusz, R. Nock, and M. Harandi, "Adaptive subspaces for few-shot learning," CVPR, 2020. 
 - C. Simon and I. K. Park, "Reflection removal for in-vehicle black box videos," CVPR, 2015. [URL](http://image.inha.ac.kr/paper/CVPR2015_Simon.pdf) [Video](https://drive.google.com/file/d/1JhZSohA7ty1WxzSJEnwwoll4RdtIsS5X/view?usp=sharing)
 ![img](https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png)
 
