@@ -33,6 +33,7 @@ Entia non sunt multiplicanda praeter necessitatem.
 
 ### Conferences
 - C.Simon, P. Koniusz, R. Nock, and M. Harandi, "Adaptive subspaces for few-shot learning," CVPR, 2020. 
+![img](https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/psn.jpg)
 - C. Simon and I. K. Park, "Reflection removal for in-vehicle black box videos," CVPR, 2015. [URL](http://image.inha.ac.kr/paper/CVPR2015_Simon.pdf) [Video](https://drive.google.com/file/d/1JhZSohA7ty1WxzSJEnwwoll4RdtIsS5X/view?usp=sharing)
 ![img](https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png)
 
