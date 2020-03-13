@@ -4,7 +4,7 @@
 
 ## Sometimes Working on AI
 
-Christian Simon Shen
+Christian Simon 
 
 Hi, I am a PhD student at the Australian National University starting in 2018.
 My research problem focuses on meta-learning, life-long learning, continual-learning, and their applications. 
