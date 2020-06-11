@@ -1,12 +1,12 @@
-# 2020 Progress Bar (14%)
-![img](https://pbs.twimg.com/media/ERRuhsVUUAA0Yl7?format=jpg&name=small)
+# 2020 Progress Bar (44%)
+![img](https://pbs.twimg.com/media/EaHLfQ9XQAArQmn?format=jpg&name=small)
 
 
 ## Sometimes Working on AI
 
-Christian Simon 
+Christian Simon Shen
 
-Hi, I am a PhD student at the Australian National University starting in 2018.
+Hi, I am a PhD student at the Australian National University.
 My research problem focuses on meta-learning, life-long learning, continual-learning, and their applications. 
 
 I incline to solve and describe the problems from these perspectives: representation learning, optimization, and geometry.
@@ -32,8 +32,8 @@ Entia non sunt multiplicanda praeter necessitatem.
 - C. Simon, Williem, and I. K. Park, "Correcting geometric and photometric distortion of document images on a smartphone," Journal of Electronic Imaging (JEI), 2015. [URL](http://image.inha.ac.kr/paper/JEI201501_Simon.pdf)
 
 ### Conferences
-- C.Simon, P. Koniusz, R. Nock, and M. Harandi, "Adaptive subspaces for few-shot learning," CVPR, 2020. 
-![img](https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/psn.jpg)
+- C.Simon, P. Koniusz, R. Nock, and M. Harandi, "Adaptive subspaces for few-shot learning," CVPR, 2020. [URL](http://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)
+![img](https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/psn.jpg) 
 - C. Simon and I. K. Park, "Reflection removal for in-vehicle black box videos," CVPR, 2015. [URL](http://image.inha.ac.kr/paper/CVPR2015_Simon.pdf) [Video](https://drive.google.com/file/d/1JhZSohA7ty1WxzSJEnwwoll4RdtIsS5X/view?usp=sharing)
 ![img](https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png)
 
