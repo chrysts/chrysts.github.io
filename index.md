@@ -49,9 +49,7 @@ Journal of Electronic Imaging (JEI), 2015.
 
 - [<b>Reflection removal for in-vehicle black box videos</b>](http://image.inha.ac.kr/paper/CVPR2015_Simon.pdf) [[Video]](https://drive.google.com/file/d/1JhZSohA7ty1WxzSJEnwwoll4RdtIsS5X/view?usp=sharing) <br/>
 <b>C. Simon</b> and I. K. Park <br/>
-<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.</b>
-
-<img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="200px" width="260px" /> 
+<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="170px" width="210px" /> 
 
 ## Awards
 - Outstanding Reviewer ICCV 2019 [URL](http://iccv2019.thecvf.com/best_reviewers)
