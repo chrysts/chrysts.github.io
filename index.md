@@ -12,7 +12,7 @@ My research problem focuses on meta-learning, life-long learning, continual-lear
 I incline to solve and describe the problems from these perspectives: representation learning, optimization, and geometry.
 Entia non sunt multiplicanda praeter necessitatem.
 
-- Email : first.last@anu.edu.au (English name) 
+- Email : first.last@anu.edu.au  
 - [Google Scholar](https://scholar.google.com/citations?user=eZrRbp4AAAAJ&hl=en)
 
 
