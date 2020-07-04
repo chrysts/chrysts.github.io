@@ -29,20 +29,20 @@ Entia non sunt multiplicanda praeter necessitatem.
 ### Journals
 - [<b>Reflection removal under fast forward camera motion</b>](http://image.inha.ac.kr/wp-content/uploads/2017/07/TIP2017Cheong.pdf)<br/>
 J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
-IEEE Transaction on Image Processing (TIP), 2018.
+<b>IEEE Transaction on Image Processing (TIP), 2018.</b>
 
 -  [<b>Correcting geometric and photometric distortion of document images on a smartphone</b>](http://image.inha.ac.kr/paper/JEI201501_Simon.pdf)<br/>
  <b>C. Simon</b>, Williem, and I. K. Park<br/>
-Journal of Electronic Imaging (JEI), 2015.
+<b>Journal of Electronic Imaging (JEI), 2015.</b>
 
 ### Conferences
 - [<b>On learning to modulate the gradient for fast adaptation of neural networks</b>](https://chrysts.github.io)<br/>
 <b>C. Simon</b>, P. Koniusz, R. Nock, and M. Harandi <br/>
-<b>European Conference on Computer Vision (ECCV), 2020. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/diagram_mlgrad.png?raw=true"  height="70px" width="260px" />
+<b>European Conference on Computer Vision (ECCV), 2020. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/diagram_mlgrad.png?raw=true"  height="70px" width="250px" />
 
 - [<b>Adaptive subspaces for few-shot learning</b>](http://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz, R. Nock, and M. Harandi<br/>
-<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.</b> <img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/psn.jpg?raw=true"  height="85px" width="260px" /> 
+<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/psn.jpg?raw=true"  height="85px" width="270px" /> 
 
 
 
