@@ -27,20 +27,29 @@ Entia non sunt multiplicanda praeter necessitatem.
 - C. Simon, P. Koniusz, L. Petersson, Y. Han, M. Harandi, "... Label Noise," Pre-print. 
 
 ### Journals
-- J.Y. Cheong, C. Simon, C. S. Kim, and I. K. Park, "Reflection Removal under Fast Forward Camera Motion," IEEE Transaction on Image Processing (TIP), 2018. [URL](http://image.inha.ac.kr/wp-content/uploads/2017/07/TIP2017Cheong.pdf)
+- [<b>Reflection removal under fast forward camera motion</b>](http://image.inha.ac.kr/wp-content/uploads/2017/07/TIP2017Cheong.pdf)<br/>
+J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
+IEEE Transaction on Image Processing (TIP), 2018.
 
-- C. Simon, Williem, and I. K. Park, "Correcting geometric and photometric distortion of document images on a smartphone," Journal of Electronic Imaging (JEI), 2015. [URL](http://image.inha.ac.kr/paper/JEI201501_Simon.pdf)
+-  [<b>Correcting geometric and photometric distortion of document images on a smartphone</b>](http://image.inha.ac.kr/paper/JEI201501_Simon.pdf)<br/>
+ <b>C. Simon</b>, Williem, and I. K. Park<br/>
+Journal of Electronic Imaging (JEI), 2015.
 
 ### Conferences
-- C. Simon, P. Koniusz, R. Nock, and M. Harandi, "On learning to modulate the gradient for fast adaptation of neural networks," ECCV, 2020. 
+- [<b>On learning to modulate the gradient for fast adaptation of neural networks</b>](https://chrysts.github.io)<br/>
+<b>C. Simon</b>, P. Koniusz, R. Nock, and M. Harandi <br/>
+<b>European Conference on Computer Vision (ECCV), 2020. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/diagram_mlgrad.png?raw=true"  height="70px" width="260px" />
 
-<img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/diagram_mlgrad.png?raw=true"  height="70px" width="260px" />
+- [<b>Adaptive subspaces for few-shot learning</b>](http://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)<br/>
+<b>C. Simon</b>, P. Koniusz, R. Nock, and M. Harandi<br/>
+<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.</b> <img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/psn.jpg?raw=true"  height="85px" width="260px" /> 
 
-- C.Simon, P. Koniusz, R. Nock, and M. Harandi, "[Adaptive subspaces for few-shot learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)," CVPR, 2020.
 
-<img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/psn.jpg?raw=true"  height="70px" width="260px" /> 
 
-- C. Simon and I. K. Park, "[Reflection removal for in-vehicle black box videos](http://image.inha.ac.kr/paper/CVPR2015_Simon.pdf)," CVPR, 2015.  [Video](https://drive.google.com/file/d/1JhZSohA7ty1WxzSJEnwwoll4RdtIsS5X/view?usp=sharing)
+
+- [<b>Reflection removal for in-vehicle black box videos</b>](http://image.inha.ac.kr/paper/CVPR2015_Simon.pdf) [[Video]](https://drive.google.com/file/d/1JhZSohA7ty1WxzSJEnwwoll4RdtIsS5X/view?usp=sharing) <br/>
+<b>C. Simon</b> and I. K. Park <br/>
+<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.</b>
 
 <img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="200px" width="260px" /> 
 
