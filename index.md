@@ -1,10 +1,10 @@
 # 2020 Progress Bar (50%)
-![img](https://pbs.twimg.com/media/Eb4Rg4AWoAceNRE?format=jpg&name=small)
+![img](https://pbs.twimg.com/media/Ed8NVM5WoAILtfU?format=jpg&name=small)
 
 
 ## Sometimes Working on AI
 
-Christian Simon Shen
+Christian Simon
 
 Hi, I am a PhD student at the Australian National University.
 My research problem focuses on meta-learning, life-long learning, continual-learning, and their applications. 
