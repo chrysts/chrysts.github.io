@@ -57,7 +57,12 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 - AGRTP Australian National University 2018~
 - Jungseok Scholarship 2013-2015
 
-## Program Committee / Reviewer:
+## Teaching Assistant:
+- COMP4670/8600 [Statistical Machine Learning](https://machlearn.gitlab.io/sml2020/) - ANU
+- ENG6528 Computer Vision - ANU
+
+## Services 
+### Program Committee / Reviewer:
 - ICLR
 - Neurips
 - CVPR
