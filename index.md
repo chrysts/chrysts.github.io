@@ -36,7 +36,7 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 <b>Journal of Electronic Imaging (JEI), 2015.</b>
 
 ### Conferences
-- [<b>On Modulating the Gradient for Meta-Learning</b>](https://chrysts.github.io)<br/>
+- [<b>On Modulating the Gradient for Meta-Learning</b>](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz, R. Nock, and M. Harandi <br/>
 <b>European Conference on Computer Vision (ECCV), 2020. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/diagram_mlgrad.png?raw=true"  height="70px" width="250px" />
 
