@@ -1,5 +1,5 @@
 # 2021 Progress Bar (0%)
-![img](https://pbs.twimg.com/media/Eqmslu3W8AIhXP8?format=jpg&name=small)
+![img](https://pbs.twimg.com/media/EvmPamcWQAAnRL2?format=jpg&name=small)
 
 
 ## Sometimes Working on AI
@@ -34,11 +34,20 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 <b>Journal of Electronic Imaging (JEI), 2015.</b>
 
 ### Conferences
+- [<b>On learning the geodesic path for incremental learning</b> (oral)]( )<br/>
+<b>C. Simon</b>, P. Koniusz,  and M. Harandi <br/>
+<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. </b> <br/><img src=""  height="70px" width="250px" />
+
+- [<b>Reinforced attention for few-shot learning and beyond</b>]( )<br/>
+J. Hong, P. Fang, W. Li, T. Zhang, <b>C. Simon</b>, M. Harandi, and L. Petersson<br/>
+<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. </b> <br/><img src=""  height="70px" width="250px" />
+
+
 - [<b>On Modulating the Gradient for Meta-Learning</b>](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz, R. Nock, and M. Harandi <br/>
 <b>European Conference on Computer Vision (ECCV), 2020. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/diagram_mlgrad.png?raw=true"  height="70px" width="250px" />
 
-- [<b>Adaptive subspaces for few-shot learning</b>](http://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)<br/>
+- [<b>Adaptive subspaces for few-shot learning</b> ](http://openaccess.thecvf.com/content_CVPR_2020/papers/Simon_Adaptive_Subspaces_for_Few-Shot_Learning_CVPR_2020_paper.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz, R. Nock, and M. Harandi<br/>
 <b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/psn.jpg?raw=true"  height="85px" width="270px" /> 
 
