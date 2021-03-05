@@ -1,4 +1,4 @@
-# 2021 Progress Bar (0%)
+# 2021 Progress Bar (9%)
 ![img](https://pbs.twimg.com/media/EvmPamcWQAAnRL2?format=jpg&name=small)
 
 
@@ -43,7 +43,7 @@ J. Hong, P. Fang, W. Li, T. Zhang, <b>C. Simon</b>, M. Harandi, and L. Petersson
 <b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. </b> <br/><img src=""  height="70px" width="250px" />
 
 
-- [<b>On Modulating the Gradient for Meta-Learning</b>](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)<br/>
+- [<b>On modulating the gradient for meta-learning</b>](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530545.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz, R. Nock, and M. Harandi <br/>
 <b>European Conference on Computer Vision (ECCV), 2020. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/diagram_mlgrad.png?raw=true"  height="70px" width="250px" />
 
