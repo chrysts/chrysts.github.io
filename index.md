@@ -36,7 +36,7 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 <b>Journal of Electronic Imaging (JEI), 2015.</b>
 
 ### Conferences
-- [<b>On learning the geodesic path for incremental learning</b>]( ) <font color="red">(Oral)</font> <br/>
+- [<b>On learning the geodesic path for incremental learning</b>]( ) <span color="blue">(oral)</span>   <br/>
 [[pdf]]()<br/>
 <b>C. Simon</b>, P. Koniusz,  and M. Harandi <br/>
 <b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodl.png?raw=true"  height="130px" width="140px" />
