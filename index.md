@@ -1,5 +1,5 @@
-# 2021 Progress Bar (9%)
-![img](https://pbs.twimg.com/media/EvmPamcWQAAnRL2?format=jpg&name=small)
+# 2021 Progress Bar (26%)
+![img](https://pbs.twimg.com/media/EyPacIeWEAIoHgn?format=jpg&name=small)
 
 
 ## Sometimes Working on AI
@@ -14,13 +14,8 @@ Currently, I am a PhD student at the Australian National University and my resea
 - [Google Scholar](https://scholar.google.com/citations?user=eZrRbp4AAAAJ&hl=en)
 
 
-## Sometimes Randomly Cite a Nice Quote
 
-> Educating the mind without educating the heart is no education at all. - Aristotle (384 - 322 BC)
-
-
-
-## Sometimes Write Papers
+## Publications
 ### Preprints
 - C. Simon, P. Koniusz, L. Petersson, Y. Han, M. Harandi, "... Label Noise," Pre-print. 
 
@@ -65,6 +60,7 @@ J. Hong, P. Fang, W. Li, T. Zhang, <b>C. Simon</b>, M. Harandi, and L. Petersson
 <b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="170px" width="210px" /> 
 
 ## Awards
+- Outstanding Reviewer ICLR 2021 
 - Outstanding Reviewer ICCV 2019 [URL](http://iccv2019.thecvf.com/best_reviewers)
 - Data61 Scholarship 2019~
 - AGRTP Australian National University 2018~
