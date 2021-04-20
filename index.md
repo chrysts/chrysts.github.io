@@ -1,5 +1,5 @@
-# 2021 Progress Bar (26%)
-![img](https://pbs.twimg.com/media/EyPacIeWEAIoHgn?format=jpg&name=small)
+# 2021 Progress Bar (29%)
+![img](https://pbs.twimg.com/media/EzHzcpzW8AMyOvV?format=jpg&name=small)
 
 
 ## Sometimes Working on AI
@@ -31,13 +31,13 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 <b>Journal of Electronic Imaging (JEI), 2015.</b>
 
 ### Conferences
-- [<b>On learning the geodesic path for incremental learning</b>]( ) <span color="blue">(oral)</span>   <br/>
-[[pdf]]()<br/>
+- [<b>On learning the geodesic path for incremental learning</b>](https://arxiv.org/abs/2104.08572) <span color="blue">(oral)</span>   <br/>
+[[pdf]](https://arxiv.org/abs/2104.08572.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz,  and M. Harandi <br/>
 <b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodl.png?raw=true"  height="130px" width="140px" />
 
-- [<b>Reinforced attention for few-shot learning and beyond</b>]( )<br/>
-[[pdf]]()<br/>
+- [<b>Reinforced attention for few-shot learning and beyond</b>](https://arxiv.org/pdf/2104.04192)<br/>
+[[pdf]](https://arxiv.org/pdf/2104.04192.pdf)<br/>
 J. Hong, P. Fang, W. Li, T. Zhang, <b>C. Simon</b>, M. Harandi, and L. Petersson<br/>
 <b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/reinfoced_attention.png?raw=true"  height="70px" width="250px" />
 
