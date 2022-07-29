@@ -16,7 +16,7 @@ Currently, I am a <strike>PhD student at the Australian National University</str
 
 ## News
 - July 2022: You can call me Dr. Christian Simon now :)
-- June 2022: Our team (ORBITRON) won the few-shot learning competition in the [VizWiz](https://vizwiz.org/workshops/2022-workshop/) workshop. See the leaderboard of the ORBIT Few-Shot Object Recognition Challenge [HERE](https://eval.ai/web/challenges/challenge-page/1438/leaderboard/3580). You can check our publised code [HERE](https://github.com/chrysts/ORBITRON_Subspace_ORBIT_challenge) and video presentation [HERE](https://www.youtube.com/watch?v=yfc7qI83eFY&t=249s).
+- June 2022: Our team (ORBITRON) won the few-shot learning competition in the [VizWiz](https://vizwiz.org/workshops/2022-workshop/) workshop. See the leaderboard of the ORBIT Few-Shot Object Recognition Challenge [HERE](https://eval.ai/web/challenges/challenge-page/1438/leaderboard/3580). You can check our published code [HERE](https://github.com/chrysts/ORBITRON_Subspace_ORBIT_challenge) and video presentation [HERE](https://www.youtube.com/watch?v=yfc7qI83eFY&t=249s).
 - March 2022: One paper is accepted to CVPR 2022, thanks to all co-authors and reviewers!  
 
 
