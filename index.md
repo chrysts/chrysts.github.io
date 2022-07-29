@@ -1,5 +1,5 @@
-# 2021 Progress Bar (48%)
-![img](https://pbs.twimg.com/media/E4s8gngWYAMpDyg?format=jpg&name=small)
+# 2022 Progress Bar (57%)
+![img](https://pbs.twimg.com/media/FYtz0qOWQAE3_ND?format=jpg&name=small)
 
 
 ## Sometimes Working on AI
@@ -7,17 +7,21 @@
 Christian Simon
 
 Hi, my name is Christian Simon and I grew up in Indonesia with lovely people and cultures.
-Currently, I am a PhD student at the Australian National University and my research problems focus on meta-learning, life-long learning, continual-learning, and their applications. 
+Currently, I am a <strike>PhD student at the Australian National University</strike>  and my research problems focus on meta-learning, life-long learning, continual-learning, and their applications. 
 
 
 - Email : firstname.lastname@anu.edu.au  
 - [Google Scholar](https://scholar.google.com/citations?user=eZrRbp4AAAAJ&hl=en)
 
 
+## News
+- July 2022: You can call me Dr. Christian Simon now 
+- June 2022: We won Few-shot learning competition in the [VizWiz](https://vizwiz.org/workshops/2022-workshop/)  workshop. You can check the publised code [HERE](https://github.com/chrysts/ORBITRON_Subspace_ORBIT_challenge) and the video presentiation [HERE](https://www.youtube.com/watch?v=yfc7qI83eFY&t=249s).
+- March 2022: One paper is accepted to CVPR 2022, thanks to all co-authors and reviewers!  
+
+
 
 ## Publications
-### Preprints
-- C. Simon, P. Koniusz, L. Petersson, Y. Han, M. Harandi, "... Label Noise," Pre-print. 
 
 ### Journals
 - [<b>Reflection removal under fast forward camera motion</b>](https://ieeexplore.ieee.org/document/8024024)<br/>
@@ -31,6 +35,23 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 <b>Journal of Electronic Imaging (JEI), 2015.</b>
 
 ### Conferences
+
+- [<b>On Generalizing Beyond Domains in Cross-Domain Continual Learning</b>](https://openaccess.thecvf.com/content/CVPR2022/html/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.html) <span color="blue">(oral)</span>   <br/>
+[[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.pdf)<br/>
+<b>C. Simon, M. Faraki, Y.-H. Tsai, X. Yu, S. Schulter, Y. Suh, M. Harandi, and M. Chandraker<br/>
+<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodls.png?raw=true"  height="130px" width="140px" />
+
+- [<b>Meta-Learning for Multi-Label Few-Shot Classification</b>](https://openaccess.thecvf.com/content/WACV2022/html/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.html) <span color="blue">(oral)</span>   <br/>
+[[pdf]](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.pdf)<br/>
+<b>C. Simon</b>, P. Koniusz,  and M. Harandi <br/>
+<b>IEEE Winter Conference on Applications of Computer Vision  (WACV), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodls.png?raw=true"  height="130px" width="140px" />
+
+- [<b>Towards a Robust Differentiable Architecture Search under Label Noise</b>](https://openaccess.thecvf.com/content/WACV2022/html/Simon_Towards_a_Robust_Differentiable_Architecture_Search_Under_Label_Noise_WACV_2022_paper.html) <span color="blue">(oral)</span>   <br/>
+[[pdf]](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Towards_a_Robust_Differentiable_Architecture_Search_Under_Label_Noise_WACV_2022_paper.pdf)<br/>
+<b>C. Simon</b>, P. Koniusz,  and M. Harandi <br/>
+<b>IEEE Winter Conference on Applications of Computer Vision  (WACV), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodls.png?raw=true"  height="130px" width="140px" />
+
+
 - [<b>On learning the geodesic path for incremental learning</b>](https://arxiv.org/abs/2104.08572) <span color="blue">(oral)</span>   <br/>
 [[pdf]](https://arxiv.org/abs/2104.08572.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz,  and M. Harandi <br/>
@@ -60,6 +81,7 @@ J. Hong, P. Fang, W. Li, T. Zhang, <b>C. Simon</b>, M. Harandi, and L. Petersson
 <b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="170px" width="210px" /> 
 
 ## Awards
+- Outstanding Reviewer ICML 2022 
 - Outstanding Reviewer ICLR 2021 
 - Outstanding Reviewer ICCV 2019 [URL](http://iccv2019.thecvf.com/best_reviewers)
 - Data61 Scholarship 2019~
@@ -79,5 +101,7 @@ J. Hong, P. Fang, W. Li, T. Zhang, <b>C. Simon</b>, M. Harandi, and L. Petersson
 - WACV
 - AAAI
 - TIP
+- ICML
+- BMVC
 
 
