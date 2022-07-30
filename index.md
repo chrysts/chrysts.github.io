@@ -36,17 +36,17 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 
 ### Conferences
 
-- [<b>On Generalizing Beyond Domains in Cross-Domain Continual Learning</b>](https://openaccess.thecvf.com/content/CVPR2022/html/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.html) <span color="blue">(oral)</span>   <br/>
+- [<b>On Generalizing Beyond Domains in Cross-Domain Continual Learning</b>](https://openaccess.thecvf.com/content/CVPR2022/html/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.html)    <br/>
 [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.pdf)<br/>
 <b>C. Simon, M. Faraki, Y.-H. Tsai, X. Yu, S. Schulter, Y. Suh, M. Harandi, and M. Chandraker<br/>
 <b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodls.png?raw=true"  height="130px" width="140px" />
 
-- [<b>Meta-Learning for Multi-Label Few-Shot Classification</b>](https://openaccess.thecvf.com/content/WACV2022/html/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.html) <span color="blue">(oral)</span>   <br/>
+- [<b>Meta-Learning for Multi-Label Few-Shot Classification</b>](https://openaccess.thecvf.com/content/WACV2022/html/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.html)     <br/>
 [[pdf]](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz,  and M. Harandi <br/>
 <b>IEEE Winter Conference on Applications of Computer Vision  (WACV), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodls.png?raw=true"  height="130px" width="140px" />
 
-- [<b>Towards a Robust Differentiable Architecture Search under Label Noise</b>](https://openaccess.thecvf.com/content/WACV2022/html/Simon_Towards_a_Robust_Differentiable_Architecture_Search_Under_Label_Noise_WACV_2022_paper.html) <span color="blue">(oral)</span>   <br/>
+- [<b>Towards a Robust Differentiable Architecture Search under Label Noise</b>](https://openaccess.thecvf.com/content/WACV2022/html/Simon_Towards_a_Robust_Differentiable_Architecture_Search_Under_Label_Noise_WACV_2022_paper.html)    <br/>
 [[pdf]](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Towards_a_Robust_Differentiable_Architecture_Search_Under_Label_Noise_WACV_2022_paper.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz,  and M. Harandi <br/>
 <b>IEEE Winter Conference on Applications of Computer Vision  (WACV), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodls.png?raw=true"  height="130px" width="140px" />
