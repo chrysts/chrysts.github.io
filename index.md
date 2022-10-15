@@ -82,12 +82,12 @@ J. Hong, P. Fang, W. Li, T. Zhang, <b>C. Simon</b>, M. Harandi, and L. Petersson
 <b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.</b> <br/><img src="https://raw.githubusercontent.com/chrysts/chrysts.github.io/master/images/cvpr2015reflection.png?raw=true"  height="170px" width="210px" /> 
 
 ## Awards
+- The winner of Dolby Australia Scientific Paper Competition 2022.
+- The winner of the ORBIT Few-Shot Object Recognition Challenge 2022 (Vizwiz workshop).
 - Outstanding Reviewer ICML 2022 
 - Outstanding Reviewer ICLR 2021 
 - Outstanding Reviewer ICCV 2019 [URL](http://iccv2019.thecvf.com/best_reviewers)
-- Data61 Scholarship 2019~
-- AGRTP Australian National University 2018~
-- Jungseok Scholarship 2013-2015
+
 
 ## Teaching Assistant:
 - COMP4670/8600 [Statistical Machine Learning](https://machlearn.gitlab.io/sml2020/) - ANU
