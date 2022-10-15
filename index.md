@@ -40,28 +40,28 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 - [<b>On Generalizing Beyond Domains in Cross-Domain Continual Learning</b>](https://openaccess.thecvf.com/content/CVPR2022/html/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.html)    <br/>
 [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.pdf)<br/>
 <b>C. Simon, M. Faraki, Y.-H. Tsai, X. Yu, S. Schulter, Y. Suh, M. Harandi, and M. Chandraker<br/>
-<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodls.png?raw=true"  height="130px" width="140px" />
+<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/ondomain_gen.png?raw=true"  height="150px" width="190px" />
 
 - [<b>Meta-Learning for Multi-Label Few-Shot Classification</b>](https://openaccess.thecvf.com/content/WACV2022/html/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.html)     <br/>
 [[pdf]](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Meta-Learning_for_Multi-Label_Few-Shot_Classification_WACV_2022_paper.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz,  and M. Harandi <br/>
-<b>IEEE Winter Conference on Applications of Computer Vision  (WACV), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodls.png?raw=true"  height="130px" width="140px" />
+<b>IEEE Winter Conference on Applications of Computer Vision  (WACV), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/multilabel_metalearning.png?raw=true"  height="150px" width="260px" />
 
 - [<b>Towards a Robust Differentiable Architecture Search under Label Noise</b>](https://openaccess.thecvf.com/content/WACV2022/html/Simon_Towards_a_Robust_Differentiable_Architecture_Search_Under_Label_Noise_WACV_2022_paper.html)    <br/>
 [[pdf]](https://openaccess.thecvf.com/content/WACV2022/papers/Simon_Towards_a_Robust_Differentiable_Architecture_Search_Under_Label_Noise_WACV_2022_paper.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz,  and M. Harandi <br/>
-<b>IEEE Winter Conference on Applications of Computer Vision  (WACV), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodls.png?raw=true"  height="130px" width="140px" />
+<b>IEEE Winter Conference on Applications of Computer Vision  (WACV), 2022. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/NAS_noisylabels.png?raw=true"  height="110px" width="170px" />
 
 
 - [<b>On learning the geodesic path for incremental learning</b>](https://arxiv.org/abs/2104.08572) <span color="blue">(oral)</span>   <br/>
 [[pdf]](https://arxiv.org/abs/2104.08572.pdf)<br/>
 <b>C. Simon</b>, P. Koniusz,  and M. Harandi <br/>
-<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodl.png?raw=true"  height="130px" width="140px" />
+<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/geodl.png?raw=true"  height="130px" width="190px" />
 
 - [<b>Reinforced attention for few-shot learning and beyond</b>](https://arxiv.org/pdf/2104.04192)<br/>
 [[pdf]](https://arxiv.org/pdf/2104.04192.pdf)<br/>
 J. Hong, P. Fang, W. Li, T. Zhang, <b>C. Simon</b>, M. Harandi, and L. Petersson<br/>
-<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/reinfoced_attention.png?raw=true"  height="70px" width="250px" />
+<b>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/reinfoced_attention.png?raw=true"  height="100px" width="250px" />
 
 
 - [<b>On modulating the gradient for meta-learning</b>](https://link.springer.com/chapter/10.1007%2F978-3-030-58598-3_33)<br/>
