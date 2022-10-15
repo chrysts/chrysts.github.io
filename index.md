@@ -1,5 +1,5 @@
-# 2022 Progress Bar (57%)
-![img](https://pbs.twimg.com/media/FYtz0qOWQAE3_ND?format=jpg&name=small)
+# 2022 Progress Bar (78%)
+![img](https://pbs.twimg.com/media/Fe4i4bOWYAAFsRs?format=jpg&name=small)
 
 
 ## Sometimes Working on AI
@@ -15,8 +15,9 @@ Currently, I am a <strike>PhD student at the Australian National University</str
 
 
 ## News
+- September 2022: Our CVPR 2021 paper with a title "On learning the geodesic path for incremental learning" won the Scientific Paper Challenge 2022 organized by Dolby Australia. 
 - July 2022: You can call me Dr. Christian Simon now :)
-- June 2022: Our team (ORBITRON) won the few-shot learning competition in the [VizWiz](https://vizwiz.org/workshops/2022-workshop/) workshop. See the leaderboard of the ORBIT Few-Shot Object Recognition Challenge [HERE](https://eval.ai/web/challenges/challenge-page/1438/leaderboard/3580). You can check our published code [HERE](https://github.com/chrysts/ORBITRON_Subspace_ORBIT_challenge) and video presentation [HERE](https://www.youtube.com/watch?v=yfc7qI83eFY&t=249s).
+- June 2022: Our team (ORBITRON) won the few-shot learning competition in the [VizWiz](https://vizwiz.org/workshops/2022-workshop/) workshop. See the leaderboard of the ORBIT Few-Shot Object Recognition Challenge [HERE](https://eval.ai/web/challenges/challenge-page/1438/leaderboard/3580). You can check our published code [HERE](https://github.com/chrysts/ORBITRON_Team_ORBIT_Challenge) and video presentation [HERE](https://www.youtube.com/watch?v=yfc7qI83eFY&t=249s).
 - March 2022: One paper is accepted to CVPR 2022, thanks to all co-authors and reviewers!  
 
 
