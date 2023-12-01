@@ -1,13 +1,12 @@
-# 2022 Progress Bar (78%)
-![img](https://pbs.twimg.com/media/Fe4i4bOWYAAFsRs?format=jpg&name=small)
-
+# 2023 Progress Bar (92%)
+![img](https://pbs.twimg.com/media/GAEmNgDW4AAqfkd?format=jpg&name=small)
 
 ## Sometimes Working on AI
 
 Christian Simon
 
 Hi, my name is Christian Simon and I grew up in Indonesia with lovely people and cultures.
-Currently, I am a <strike>PhD student at the Australian National University</strike>  and my research problems focus on meta-learning, life-long learning, continual-learning, and their applications. 
+Currently, I am a machine learning and computer vision researcher, and my research problems focus on meta-learning, life-long learning, continual-learning, and their applications. 
 
 
 - Email : firstname.lastname@anu.edu.au  
@@ -15,6 +14,7 @@ Currently, I am a <strike>PhD student at the Australian National University</str
 
 
 ## News
+- October 2024: Our paper with a title "On Manipulating Scene Text in the Wild with Diffusion Models" has been accepted to WACV2024. Congratulations Joshua! 
 - September 2022: Our CVPR 2021 paper with a title "On learning the geodesic path for incremental learning" won the Scientific Paper Challenge 2022 organized by Dolby Australia. 
 - July 2022: You can call me Dr. Christian Simon now :)
 - June 2022: Our team (ORBITRON) won the few-shot learning competition in the [VizWiz](https://vizwiz.org/workshops/2022-workshop/) workshop. See the leaderboard of the ORBIT Few-Shot Object Recognition Challenge [HERE](https://eval.ai/web/challenges/challenge-page/1438/leaderboard/3580). You can check our published code [HERE](https://github.com/chrysts/ORBITRON_Team_ORBIT_Challenge) and video presentation [HERE](https://www.youtube.com/watch?v=yfc7qI83eFY&t=249s).
@@ -36,6 +36,11 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 <b>Journal of Electronic Imaging (JEI), 2015.</b>
 
 ### Conferences
+
+- [<b>On Manipulating Scene Text in the Wild with Diffusion Models</b>](hhttps://arxiv.org/abs/2311.00734)    <br/>
+[[pdf]](https://arxiv.org/pdf/2311.00734.pdf)<br/>
+<b>J. Santoso, C. Simon, and Williem<br/>
+<b>IEEE Conference on Computer Vision and Pattern Recognition (WACV), 2024. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/ondomain_gen.png?raw=true"  height="150px" width="190px" />
 
 - [<b>On Generalizing Beyond Domains in Cross-Domain Continual Learning</b>](https://openaccess.thecvf.com/content/CVPR2022/html/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.html)    <br/>
 [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.pdf)<br/>
