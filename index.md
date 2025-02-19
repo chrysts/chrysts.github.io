@@ -1,20 +1,22 @@
-# 2023 Progress Bar (92%)
-![img](https://pbs.twimg.com/media/GAEmNgDW4AAqfkd?format=jpg&name=small)
+# 2025 Progress Bar (13%)
+![img](https://pbs.twimg.com/media/Gj--KQoWAAEm7OR?format=jpg&name=small)
 
-## Sometimes Working on AI
+## Research on AI 
 
 Christian Simon
 
 Hi, my name is Christian Simon and I grew up in Indonesia with lovely people and cultures.
-Currently, I am a machine learning and computer vision researcher, and my research problems focus on meta-learning, life-long learning, continual-learning, and their applications. 
+Currently, I am a machine learning and audio-visual researcher, and my research problems focus on multi-modal learning for discriminative and generative models, also did meta-learning, life-long learning, and continual-learning in the past. 
 
 
-- Email : firstname.lastname@anu.edu.au  
+- Email : u6562565@anu.edu.au  
 - [Google Scholar](https://scholar.google.com/citations?user=eZrRbp4AAAAJ&hl=en)
 
 
 ## News
-- October 2024: Our paper with a title "On Manipulating Scene Text in the Wild with Diffusion Models" has been accepted to WACV2024. Congratulations Joshua! 
+- January 2025: Our paper with a title "Mining your own secrets: Diffusion classifier scores for continual personalization of text-to-image diffusion models" has been accepted to ICLR2025. Congratulations Saurav!
+- January 2024: Our paper with a title "FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing" has been accepted to ICLR2024. Congratulations Yuren!
+- October 2023: Our paper with a title "On Manipulating Scene Text in the Wild with Diffusion Models" has been accepted to WACV2024. Congratulations Joshua! 
 - September 2022: Our CVPR 2021 paper with a title "On learning the geodesic path for incremental learning" won the Scientific Paper Challenge 2022 organized by Dolby Australia. 
 - July 2022: You can call me Dr. Christian Simon now :)
 - June 2022: Our team (ORBITRON) won the few-shot learning competition in the [VizWiz](https://vizwiz.org/workshops/2022-workshop/) workshop. See the leaderboard of the ORBIT Few-Shot Object Recognition Challenge [HERE](https://eval.ai/web/challenges/challenge-page/1438/leaderboard/3580). You can check our published code [HERE](https://github.com/chrysts/ORBITRON_Team_ORBIT_Challenge) and video presentation [HERE](https://www.youtube.com/watch?v=yfc7qI83eFY&t=249s).
@@ -37,7 +39,17 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 
 ### Conferences
 
-- [<b>On Manipulating Scene Text in the Wild with Diffusion Models</b>](hhttps://arxiv.org/abs/2311.00734)    <br/>
+- [<b>Mining your own secrets: Diffusion classifier scores for continual personalization of text-to-image diffusion models</b>](https://arxiv.org/abs/2410.00700)    <br/>
+[[pdf]](https://arxiv.org/pdf/2410.00700.pdf)<br/>
+<b>S. Jha, S. Yang, M. Ishii, M. Zhao, C. Simon, M. J. Mirza, D. Gong, L. Yao, S. Takahashi, Y. Mitsufuji<br/>
+<b>International Conference on Learning Representations (ICLR), 2025. </b> <br/><img src=""  height="150px" width="190px" />
+
+- [<b>On FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing</b>](https://arxiv.org/abs/2310.05922)    <br/>
+[[pdf]](https://arxiv.org/pdf/2310.05922.pdf)<br/>
+<b>Y Cong, M Xu, C. Simon, S Chen, J Ren, Y Xie, JM Perez-Rua,..., T. Xiang, S. He<br/>
+<b>International Conference on Learning Representations (ICLR), 2024. </b> <br/><img src="https://flatten-video-editing.github.io/static/images/framework.png?raw=true"  height="150px" width="190px" />
+
+- [<b>On Manipulating Scene Text in the Wild with Diffusion Models</b>](https://arxiv.org/abs/2311.00734)    <br/>
 [[pdf]](https://arxiv.org/pdf/2311.00734.pdf)<br/>
 <b>J. Santoso, C. Simon, and Williem<br/>
 <b>IEEE Conference on Computer Vision and Pattern Recognition (WACV), 2024. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/ondomain_gen.png?raw=true"  height="150px" width="190px" />
