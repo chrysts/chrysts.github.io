@@ -1,5 +1,5 @@
-# 2025 Progress Bar (13%)
-![img](https://pbs.twimg.com/media/Gj--KQoWAAEm7OR?format=jpg&name=small)
+# 2025 Progress Bar (48%)
+![img]((https://pbs.twimg.com/media/GuQ3TCFWIAAhT-R?format=jpg&name=small))
 
 ## Research on AI 
 
@@ -14,6 +14,7 @@ Currently, I am a machine learning and audio-visual researcher, and my research 
 
 
 ## News
+- June 2025: Our paper with a title "TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models" has been accepted to ICCV2025. We could more efficiently guide video with managable memory requirements!
 - January 2025: Our paper with a title "Mining your own secrets: Diffusion classifier scores for continual personalization of text-to-image diffusion models" has been accepted to ICLR2025. Congratulations Saurav!
 - January 2024: Our paper with a title "FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing" has been accepted to ICLR2024. Congratulations Yuren!
 - October 2023: Our paper with a title "On Manipulating Scene Text in the Wild with Diffusion Models" has been accepted to WACV2024. Congratulations Joshua! 
