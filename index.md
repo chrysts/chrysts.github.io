@@ -1,5 +1,5 @@
 # 2025 Progress Bar (48%)
-![img]((https://pbs.twimg.com/media/GuQ3TCFWIAAhT-R?format=jpg&name=small))
+![img](https://pbs.twimg.com/media/GuQ3TCFWIAAhT-R?format=jpg&name=small)
 
 ## Research on AI 
 
