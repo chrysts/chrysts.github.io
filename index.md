@@ -42,7 +42,7 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 - [<b>TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models</b>]()    <br/>
  (PDF coming soon!)<br/>
 <b> C. Simon, M. Ishii, A. Hayakawa, Z. Zhong , S. Takahashi, T. Shibuya, Y. Mitsufuji<br/>
-<b>International Conference on Learning Representations (ICLR), 2025. </b> <br/><img src=""  height="150px" width="190px" />
+<b>International Conference on Computer Vision (ICCV), 2025. </b> <br/><img src=""  height="150px" width="190px" />
 
 - [<b>Mining your own secrets: Diffusion classifier scores for continual personalization of text-to-image diffusion models</b>](https://arxiv.org/abs/2410.00700)    <br/>
 [[pdf]](https://arxiv.org/pdf/2410.00700.pdf)<br/>
