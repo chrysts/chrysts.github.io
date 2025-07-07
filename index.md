@@ -14,6 +14,7 @@ Currently, I am a machine learning and audio-visual researcher, and my research 
 
 
 ## News
+- July 2025: Our paper with a title "CC-Stereo: Audio-Visual Contextual and Contrastive Learning for Binaural Audio Generation" has been accepted to ACMMM2025. Congratulations Yuanhong!
 - June 2025: Our paper with a title "TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models" has been accepted to ICCV2025. We could more efficiently guide video diffusion process with managable memory requirements!
 - January 2025: Our paper with a title "Mining your own secrets: Diffusion classifier scores for continual personalization of text-to-image diffusion models" has been accepted to ICLR2025. Congratulations Saurav!
 - January 2024: Our paper with a title "FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing" has been accepted to ICLR2024. Congratulations Yuren!
@@ -39,10 +40,16 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 <b>Journal of Electronic Imaging (JEI), 2015.</b>
 
 ### Conferences
+
 - [<b>TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models</b>]()    <br/>
  (PDF coming soon!)<br/>
 <b> C. Simon, M. Ishii, A. Hayakawa, Z. Zhong , S. Takahashi, T. Shibuya, Y. Mitsufuji<br/>
 <b>International Conference on Computer Vision (ICCV), 2025. </b> <br/><img src=""  height="150px" width="190px" />
+
+- [<b>CC-Stereo: Audio-Visual Contextual and Contrastive Learning for Binaural Audio Generation</b>]()    <br/>
+[[pdf]](https://arxiv.org/abs/2501.02786)<br/>
+<b> Y. Chen, K. Shimada, C. Simon, Y. Ikemiya, T. Shibuya, Y. Mitsufuji<br/>
+<b>ACM International Conference on Multimedia (ACM MM), 2025. </b> <br/><img src=""  height="150px" width="190px" />
 
 - [<b>Mining your own secrets: Diffusion classifier scores for continual personalization of text-to-image diffusion models</b>](https://arxiv.org/abs/2410.00700)    <br/>
 [[pdf]](https://arxiv.org/pdf/2410.00700.pdf)<br/>
