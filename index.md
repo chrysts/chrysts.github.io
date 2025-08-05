@@ -1,5 +1,5 @@
-# 2025 Progress Bar (48%)
-![img](https://pbs.twimg.com/media/GuQ3TCFWIAAhT-R?format=jpg&name=small)
+# 2025 Progress Bar (59%)
+![img](https://pbs.twimg.com/media/GxfoS0-WQAAtSls?format=jpg&name=small)
 
 ## Research on AI 
 
@@ -42,19 +42,19 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 ### Conferences
 
 - [<b>TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models</b>]()    <br/>
- (PDF coming soon!)<br/>
+ [[pdf]](https://arxiv.org/abs/2508.00289)<br/>
 <b> C. Simon, M. Ishii, A. Hayakawa, Z. Zhong , S. Takahashi, T. Shibuya, Y. Mitsufuji<br/>
-<b>International Conference on Computer Vision (ICCV), 2025. </b> <br/><img src=""  height="150px" width="190px" />
+<b>International Conference on Computer Vision (ICCV), 2025. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/titanguide.jpg?raw=true"  height="150px" width="190px" />
 
 - [<b>CC-Stereo: Audio-Visual Contextual and Contrastive Learning for Binaural Audio Generation</b>]()    <br/>
 [[pdf]](https://arxiv.org/abs/2501.02786)<br/>
 <b> Y. Chen, K. Shimada, C. Simon, Y. Ikemiya, T. Shibuya, Y. Mitsufuji<br/>
-<b>ACM International Conference on Multimedia (ACM MM), 2025. </b> <br/><img src=""  height="150px" width="190px" />
+<b>ACM International Conference on Multimedia (ACM MM), 2025. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/ccstereo.jpg?raw=true"  height="150px" width="190px" />
 
 - [<b>Mining your own secrets: Diffusion classifier scores for continual personalization of text-to-image diffusion models</b>](https://arxiv.org/abs/2410.00700)    <br/>
 [[pdf]](https://arxiv.org/pdf/2410.00700.pdf)<br/>
 <b>S. Jha, S. Yang, M. Ishii, M. Zhao, C. Simon, M. J. Mirza, D. Gong, L. Yao, S. Takahashi, Y. Mitsufuji<br/>
-<b>International Conference on Learning Representations (ICLR), 2025. </b> <br/><img src=""  height="150px" width="190px" />
+<b>International Conference on Learning Representations (ICLR), 2025. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/mining.jpg?raw=true"  height="150px" width="190px" />
 
 - [<b>On FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing</b>](https://arxiv.org/abs/2310.05922)    <br/>
 [[pdf]](https://arxiv.org/pdf/2310.05922.pdf)<br/>
@@ -64,7 +64,7 @@ J.Y. Cheong, <b>C. Simon</b>, C. S. Kim, and I. K. Park<br/>
 - [<b>On Manipulating Scene Text in the Wild with Diffusion Models</b>](https://arxiv.org/abs/2311.00734)    <br/>
 [[pdf]](https://arxiv.org/pdf/2311.00734.pdf)<br/>
 <b>J. Santoso, C. Simon, and Williem<br/>
-<b>IEEE Conference on Computer Vision and Pattern Recognition (WACV), 2024. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/ondomain_gen.png?raw=true"  height="150px" width="190px" />
+<b>IEEE Conference on Computer Vision and Pattern Recognition (WACV), 2024. </b> <br/><img src="https://github.com/chrysts/chrysts.github.io/blob/master/images/textdiffusion.jpg?raw=true"  height="150px" width="190px" />
 
 - [<b>On Generalizing Beyond Domains in Cross-Domain Continual Learning</b>](https://openaccess.thecvf.com/content/CVPR2022/html/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.html)    <br/>
 [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Simon_On_Generalizing_Beyond_Domains_in_Cross-Domain_Continual_Learning_CVPR_2022_paper.pdf)<br/>
