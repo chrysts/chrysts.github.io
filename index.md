@@ -13,6 +13,7 @@ Currently, I am a machine learning and audio-visual researcher, and my research 
 
 
 ## News
+- February 2026: Our paper "Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models" has been accepted to CVPR2026! Details coming soon.
 - January 2026: Our papers "FLASHFOLEY: FAST INTERACTIVE SKETCH2AUDIO GENERATION", "SAVGBENCH: BENCHMARKING SPATIALLY ALIGNED AUDIO-VIDEO GENERATION", "BREAK-THE-BEAT! CONTROLLABLE MIDI-TO-DRUM AUDIO SYNTHESIS" have been accepted to ICASSP2026. Congratulations Zach, Kazuki, and Shuyang!
 - July 2025: Our paper with a title "CC-Stereo: Audio-Visual Contextual and Contrastive Learning for Binaural Audio Generation" has been accepted to ACMMM2025. Congratulations Yuanhong!
 - June 2025: Our paper with a title "TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models" has been accepted to ICCV2025. We could more efficiently guide video diffusion process with managable memory requirements!
